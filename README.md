@@ -15,10 +15,10 @@ sudo apt-get install libreadline-dev libconfig-dev libssl-dev lua5.2 liblua5.2-d
 sudo apt-get upgrade
 
 #4
-git clone git clone https://github.com/ahmadnamed/ANIMUS.git
+git clone git clone https://github.com/ahmadname12/ahmadname_bot.git
 
 #5
-cd ANIMUS
+cd ahmadname_bot
 
 #6
 chmod +x launch.sh
